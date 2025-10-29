@@ -1,48 +1,14 @@
 body {
-    text-align: center;
     font-family: Verdana, sans-serif;
+    text-align: center;
     background-color: black;
     color: white;
 }
 
-.cta link{
-    color: aquamarine;
+.cta {
+    color: Aquamarine;
     font-size: 16px;
 }
-
-header h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
-    font-size: 50px;
-    color: white;
-    text-align: center;
-}
-
-.description {
-    color: white;
-    font-size: 21px;
-    margin: 25px;
-}
-
-.secondary-header {
-    color: white;
-    font-weight: 300;
-    font-size: 42px;
-    margin: 25px;
-}
-
-video, img {
-    display: block;
-    margin: 25px auto;
-}
-
-footer {
-    text-align: right;
-    color: gray;
-    margin: 20px;
-}
-
-/*
 
 h1 {
     font-size: 50px;
@@ -61,4 +27,4 @@ p {
 
 .footer {
     text-align: right;
-}  */
+}
