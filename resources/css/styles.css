@@ -5,9 +5,10 @@
 }
 
 body {
-    background-color: black;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
 }
 
 header h1 {
@@ -45,3 +46,24 @@ footer {
     color: gray;
     margin: 20px;
 }
+
+/*
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+}  */
