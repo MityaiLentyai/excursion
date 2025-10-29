@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+
+.link-cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.description {
+    color: white;
+    font-size: 21px;
+    margin: 25px;
+}
+
+.secondary-header {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    margin: 25px;
+}
+
+video, img {
+    display: block;
+    margin: 25px auto;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    margin: 20px;
+}
