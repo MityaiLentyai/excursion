@@ -5,16 +5,16 @@ body {
     color: white;
 }
 
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
 header h1 {
     font-size: 50px;
     color: white;
     text-align: center;
     font-weight: normal;
-}
-
-.link-cta {
-    color: aquamarine;
-    font-size: 16px;
 }
 
 .description {
